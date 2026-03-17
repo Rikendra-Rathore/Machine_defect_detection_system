@@ -88,32 +88,6 @@ README.md
 
 ---
 
-## Installation
-
-Clone the repository
-
-git clone https://github.com/yourusername/textile-defect-detection.git
-
-cd textile-defect-detection
-
-Install dependencies
-
-pip install flask pandas numpy scikit-learn
-
-Run model training (creates model.pkl and scaler.pkl)
-
-python train_model.py
-
-Run the application
-
-python app.py
-
-Open the dashboard in your browser
-
-http://127.0.0.1:5000
-
----
-
 ## Dashboard Features
 
 Industrial AI Dashboard showing:
