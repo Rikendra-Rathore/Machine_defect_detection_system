@@ -1,6 +1,6 @@
 # AI-Powered Textile Machine Defect Detection
 
-## Overview
+## Overview 
 
 This project is an **AI-powered industrial monitoring system** designed to detect potential machine defects in textile manufacturing. The system uses **machine learning** to analyze machine parameters and predict whether the machine condition is **Normal or Defective**.
 
