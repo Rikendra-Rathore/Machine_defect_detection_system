@@ -8,7 +8,7 @@ It also provides a **modern industrial dashboard** to visualize predictions, mon
 
 The goal of this project is to demonstrate how **AI can be used in manufacturing environments for predictive maintenance and defect detection**.
 
----
+----
 
 ## Features
 
